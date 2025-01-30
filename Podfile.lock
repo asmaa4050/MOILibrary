@@ -1,0 +1,16 @@
+PODS:
+  - MOILibrary (0.1.0)
+
+DEPENDENCIES:
+  - MOILibrary (from `../`)
+
+EXTERNAL SOURCES:
+  MOILibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MOILibrary: d0c7d28adb8114eadc9f02b62f457ec0b3a9c253
+
+PODFILE CHECKSUM: 9b82e51e3374218cb21e9a95f4905fb6e5e9fee3
+
+COCOAPODS: 1.16.2

@@ -1,0 +1,22 @@
+{
+  "name": "MOILibrary",
+  "version": "0.1.0",
+  "summary": "A short description of MOILibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/asmaa4050/MOILibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "asmaa4050": "asmaaelkholy6@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/asmaa4050/MOILibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.3"
+  },
+  "source_files": "MOILibrary/Classes/**/*"
+}

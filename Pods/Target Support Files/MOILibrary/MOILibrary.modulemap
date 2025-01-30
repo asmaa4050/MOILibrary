@@ -1,0 +1,6 @@
+framework module MOILibrary {
+  umbrella header "MOILibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
