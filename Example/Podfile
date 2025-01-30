@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'MOILibrary_Example' do
+  pod 'MOILibrary', :path => '../'
+
+  target 'MOILibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
